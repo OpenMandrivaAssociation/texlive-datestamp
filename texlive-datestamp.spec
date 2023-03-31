@@ -1,6 +1,6 @@
 Name:		texlive-datestamp
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Fixed date-stamps with LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datestamp
