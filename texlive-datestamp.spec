@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Fixed date-stamps with LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datestamp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datestamp
 License:	gpl3+ fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datestamp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datestamp.doc.r%{version}.tar.xz
